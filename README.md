@@ -1,6 +1,6 @@
 # Resume Builder Website
 
-Welcome to our Resume Builder Website! Our website allows users to easily create professional and personalized resumes.
+Welcome to our Resume Builder Website! This website allows users to easily create professional and personalized resumes.
 
 ## Features
 - User-friendly interface for creating and editing resumes
