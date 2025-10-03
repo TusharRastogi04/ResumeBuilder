@@ -26,6 +26,7 @@ Here are some screenshots of the project to give you an idea of its features and
 ## Getting Started
 1. Clone this repository to your local machine
 ```bash
+https://github.com/TusharRastogi04/ResumeBuilder.git
 ```
 2. Navigate to the project directory
 ```bash
